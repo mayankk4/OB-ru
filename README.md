@@ -8,7 +8,7 @@ Requires Jsoup jar file, included along with source.
 
 How to run :
 
-1. cd <path to src>
+1. cd {path to src folder}
 
 2. javac -cp ./jsoup-1.4.1.jar BoobScript.java 
 
